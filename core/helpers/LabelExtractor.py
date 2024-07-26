@@ -8,7 +8,7 @@ Description:
 extracts the labels from the dataset
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-06-24
+- Author: Raphaele Salvatore Licciardo, Date: 2024-06-24
 """
 
 

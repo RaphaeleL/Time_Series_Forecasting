@@ -9,7 +9,7 @@ Description:
 The Main class. Initiates the Argparser and calls the ModelTrainingController class. Main is a placeholder for a future Microservice Implementation. With giving APIs to the Controller classes, main becomes redundant.
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

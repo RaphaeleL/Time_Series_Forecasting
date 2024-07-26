@@ -8,7 +8,7 @@ Description:
 Factory for creating CVTuner instances
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 

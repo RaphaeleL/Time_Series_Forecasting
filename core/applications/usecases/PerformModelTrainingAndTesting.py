@@ -13,7 +13,7 @@ Description:
 This module calls the training (hyperparameter optimization and training if should_optimize = True) and testing usecases
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 

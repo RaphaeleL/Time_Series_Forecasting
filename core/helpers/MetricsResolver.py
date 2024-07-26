@@ -9,7 +9,7 @@ This module resolves the metrics the user passes as string over the command line
 These Metrics measure the performance of the model
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-06-24
+- Author: Raphaele Salvatore Licciardo, Date: 2024-06-24
 """
 
 

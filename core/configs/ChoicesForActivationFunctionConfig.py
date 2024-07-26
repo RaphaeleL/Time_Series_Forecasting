@@ -7,7 +7,7 @@ Stores possible values for the activation function. If you want to use a activat
 You can add more activation functions, just make sure that they are supported by "keras".
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 choices_for_activation = [

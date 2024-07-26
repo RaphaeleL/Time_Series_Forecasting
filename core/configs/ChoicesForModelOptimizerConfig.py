@@ -7,7 +7,7 @@ Stores possible values for the model optimizer. If you want to use an optimizer 
 You can add more optimizers, just make sure that they are supported by "keras"
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 choices_for_model_optimizer = ["Adam"]

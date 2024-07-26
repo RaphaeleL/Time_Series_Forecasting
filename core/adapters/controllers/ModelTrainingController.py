@@ -9,7 +9,7 @@ Controller class
 Forwardes to the ModelTrainingService
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

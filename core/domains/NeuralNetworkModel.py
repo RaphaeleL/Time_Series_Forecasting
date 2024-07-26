@@ -10,7 +10,7 @@ Description:
 Class for initialising and changing the neural network model used by the pipeline
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-06-24
+- Author: Raphaele Salvatore Licciardo, Date: 2024-06-24
 """
 
 

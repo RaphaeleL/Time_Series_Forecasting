@@ -8,7 +8,7 @@ Stores the path locations for
   2. The default folder where a hyperparameter optimization run will be saved if the used did not give a foldername as input 
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 DIRECTORY = "hyperparameter_optimization_presets"

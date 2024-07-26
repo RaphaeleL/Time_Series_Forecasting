@@ -13,7 +13,7 @@ Description:
 Creates an Hypermodel instance if should_optimize = True, creates a NeuronalNetworkModel if should_optimize = False
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

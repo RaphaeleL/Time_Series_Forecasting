@@ -6,7 +6,7 @@ Description:
 This module executes the modeltesting
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-06-30
+- Author: Raphaele Salvatore Licciardo, Date: 2024-06-30
 """
 
 

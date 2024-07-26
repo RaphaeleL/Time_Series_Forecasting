@@ -11,7 +11,7 @@ Description:
 The CVTuner. Own Implementation of the "kerastuner.engine.tuner.Tuner" tuner class.
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 

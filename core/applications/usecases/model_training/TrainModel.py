@@ -8,7 +8,7 @@ Description:
 This module executes the modeltraining without a hyperparameter optimization
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

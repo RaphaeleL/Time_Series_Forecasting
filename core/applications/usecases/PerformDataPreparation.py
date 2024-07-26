@@ -13,7 +13,7 @@ Description:
 This module take necessary data preperation steps like reading in the csv file, scaling the data and splitting the data into train and test data
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

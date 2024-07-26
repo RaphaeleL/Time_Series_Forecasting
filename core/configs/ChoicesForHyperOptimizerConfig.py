@@ -7,7 +7,7 @@ Stores possible values for the Hyperparameter optimizer. If you want to use an o
 You can add more optimizers, just make sure that they are of type "keras_tuner.oracles"
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 choices_for_optimizer = [

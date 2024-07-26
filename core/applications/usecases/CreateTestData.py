@@ -8,7 +8,7 @@ Description:
 This module initiates the labelextraction for the testdata
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

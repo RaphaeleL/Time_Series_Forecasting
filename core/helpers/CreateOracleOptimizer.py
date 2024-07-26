@@ -12,7 +12,7 @@ An Oracle is a keras_tuner Class. It is basicly the Keras_tuner hyper_parameter_
 Read more about keras_tuner.Oracle here: https://keras.io/api/keras_tuner/oracles/
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 dispatcher = {

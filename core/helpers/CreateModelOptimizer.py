@@ -9,7 +9,7 @@ This module resolves the optimizer the user passes as string over the command li
 These Optimizers define how the model will be optimated during training
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 dispatcher = {"Adam": keras.optimizers.Adam}

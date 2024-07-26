@@ -14,7 +14,7 @@ Extends the Keras_tuner HyperModel class
 Class builds the different Hyperparameters and returns the neuralNetwork 
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-06-24
+- Author: Raphaele Salvatore Licciardo, Date: 2024-06-24
 """
 
 

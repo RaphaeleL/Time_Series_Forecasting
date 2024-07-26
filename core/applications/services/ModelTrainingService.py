@@ -16,7 +16,7 @@ Service Class
 Calls the DataPreperation, creates the Models and calls the Training with or without Hyperparameteroptimization followed by the final test
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-03
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-03
 """
 
 

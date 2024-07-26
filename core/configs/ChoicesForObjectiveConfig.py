@@ -7,7 +7,7 @@ Stores possible values for the metric u want to evaluate your model on. If you w
 You can add more evaluation metrics, just make sure that they are supported by "keras"
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 choices_for_objective = [

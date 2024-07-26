@@ -9,7 +9,7 @@ Description:
 Reads in csv files and checks if they are valid csv files
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 

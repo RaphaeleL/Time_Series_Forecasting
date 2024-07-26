@@ -7,7 +7,7 @@ Stores possible metrics for the training results. If you want to use metrics whi
 You can add more metrics, just make sure that they are supported by "keras".
 
 Last Changed:
-- Author: Richard Höpken, Date: 2024-07-01
+- Author: Raphaele Salvatore Licciardo, Date: 2024-07-01
 """
 
 choices_for_metrics = [
