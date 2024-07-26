@@ -1,29 +1,39 @@
-# Forecasting Pipeline 
+# BiFlex - Forecasting
 
-In this work, a comprehensive modular deep learning pipeline was designed and developed to be capable of comparing various prediction models. This pipeline is be applicable to different datasets to make accurate forecasts (e.g. forecasting the energy requirements of an industrial operation).
+Forecasting load and charging requirements for vehicle fleets in companies.
 
-## Setup
+## Getting Started
 
- Install requirements.txt.
+You can find a detailed Documentation under `docs/`.
 
- ```bash
- pip install -r requirements.txt
- ```
+## Usage
 
-## Execution
+### Setup
+
+1. Install Python
+   - Windows: https://www.python.org/
+   - MacOS: `brew install python`
+   - Linux: 
+     - Debian/Ubuntu: `sudo apt install python3`
+     - Fedora: `sudo dnf install python3`
+     - Arch: `sudo pacman -S python`
+2. Clone the Repository `git clone https://github.com/DataDrivenSustainabilitySolutions/BiFlex-Forecasting.git`
+3. Install the Requirements `pip install -r requirements.txt`
+
+### Execution
 
 With Hyperparameter optimization:
 
-```
-python Main/main.py \
-    --csv 'exampleData/univariant_example.csv'  \
-    --inputlenght 10  \
-    --predictionlenght 1 \
+```bash
+python main.py \
+    --csv 'data/univariant_example.csv'  \
+    --input_length 10  \
+    --prediction_length 1 \
     --epochs 1 4 1  \
-    --batchsize 2 2 2 \ 
-    --testsize 0.2 \
-    --hyper_optimizer 'RandomSearch' \
-    --nsplits 2 \ 
+    --batch_size 2 2 2 \ 
+    --test_size 0.2 \
+    --hyper_parameter_optimizer 'RandomSearch' \
+    --n_splits 2 \ 
     --objective 'val_loss' \
     --maxtrials 2 \
     --should_optimize \
@@ -40,16 +50,16 @@ python Main/main.py \
 
 Without Hyperparameter optimization:
 
-```
-python Main/main.py \
-    --csv 'exampleData/univariant_example.csv'  \
-    --inputlenght 10  \
-    --predictionlenght 1  \
+```bash
+python main.py \
+    --csv 'data/univariant_example.csv'  \
+    --input_length 10  \
+    --prediction_length 1  \
     --epochs 1  \
-    --batchsize 2  \
-    --testsize 0.2  \
-    --hyper_optimizer 'RandomSearch'  \
-    --nsplits 2  \
+    --batch_size 2  \
+    --test_size 0.2  \
+    --hyper_parameter_optimizer 'RandomSearch'  \
+    --n_splits 2  \
     --objective 'val_loss'  \
     --maxtrials 2  \
     --metrics 'R2Score'  \
@@ -61,12 +71,20 @@ python Main/main.py \
     --loss 'mse'  \
     --learning_rate 1e-4  \
     --validation_split 0.2  \
-    --project_name 'project_complete_test_70trials' \
+    --project_name 'project_complete_test_70trials'
 ```
+
+## Data
+
+You can use the [Data from the BiFlex Projekt](https://github.com/DataDrivenSustainabilitySolutions/BiFlex-Daten).
+
+## Contributing
+
+Contributions are what make the open source community a vibrant space for learning, inspiration, and creativity. Every contribution is deeply valued and appreciated.
 
 ## Contact
 
-For further Questions please email one of them:
+For further Questions please contact one of them:
 
-- Raphaele Salvatore Licciardo
-- Richard Höpken
+- <a href="mailto:raphaele_salvatore.licciardo@h-ka.de"><b>Raphaele Salvatore Licciardo</b> (Researcher at the ISRG)</a> 
+- <a href="mailto:hori1011@h-ka.de"><b>Richard Hoepken</b> (Student)</a> 
