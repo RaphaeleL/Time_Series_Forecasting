@@ -74,10 +74,6 @@ python main.py \
     --project_name 'project_complete_test_70trials'
 ```
 
-## Data
-
-You can use the [Data from the BiFlex Projekt](https://github.com/DataDrivenSustainabilitySolutions/BiFlex-Daten).
-
 ## Contributing
 
 Contributions are what make the open source community a vibrant space for learning, inspiration, and creativity. Every contribution is deeply valued and appreciated.
